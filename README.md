@@ -147,3 +147,5 @@ No. DALL-E 2 and DALL-E 3 were separate diffusion models. GPT Image is built int
 ---
 
 *This is an independent, community-maintained information repository about GPT Image (OpenAI). It is not affiliated with, endorsed by, or sponsored by OpenAI. All trademarks belong to their respective owners. Corrections welcome via issues.*
+
+_Last reviewed: 2026-09-22_
